@@ -1,2 +1,2 @@
-# BEM-Ejemplo
+# mi-proyecto-personal
 Created with CodeSandbox
